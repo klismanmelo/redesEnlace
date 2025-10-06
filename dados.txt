@@ -1,0 +1,3 @@
+Mensagem de teste para a camada de enlace.
+Este é um exemplo de dados que serão embalados em um quadro.
+A camada de enlace empacota os dados para transmissão segura.
